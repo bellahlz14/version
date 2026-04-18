@@ -1,9 +1,9 @@
 {
-  "version" : "1.2.11",
-  "v7a" : "https://github.com/bellahlz14/version/releases/download/1.2.11/1-2-11_v7a.apk",
-  "v7a_size": 45604242,
-  "v8a":"https://github.com/bellahlz14/version/releases/download/1.2.11/1-2-11_v8a.apk",
+  "version" : "1.2.14",
+  "v7a" : "https://github.com/bellahlz14/version/releases/download/1.2.14/1-2-14-app-armeabi-v7a-tv-release.apk",
+  "v7a_size": 31825877,
+  "v8a":"https://github.com/bellahlz14/version/releases/download/1.2.14/1-2-14-app-arm64-v8a-tv-release.apk",
     "message" : "หากมีปัญหาให้ติดต่อที่กลุ่มtelegram @thaiiptvfree",
-  "v8a_size": 49072168
+  "v8a_size": 34605683
 
 }
